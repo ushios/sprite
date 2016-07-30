@@ -1,2 +1,4 @@
-# sprite
-sprites
+ushios/sprite
+=============
+
+Golang sprite library.
